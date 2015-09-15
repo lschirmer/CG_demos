@@ -1,2 +1,3 @@
 # works
-computer graphics works
+computer graphics works:
+includes Shadow Mapping with Percentage Closer Filtering, Terrain Lod, GLSL techniques and more... 
