@@ -1,2 +1,2 @@
-# works
+# CG DEMOS
 Includes Shadow Mapping with Percentage Closer Filtering, Terrain Lod, GLSL techniques and more... 
